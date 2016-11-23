@@ -2,6 +2,7 @@
 	"name": "f5sites/showroom-wp",
 	"description": "Show Room WP Theme. F5 Sites open source portfolio project. WordPress F5 Sites DEV projects",
 	"type": "wordpress-theme",
+	"version": "0.1",
 	"authors": [
 		{
 			"name": "Francisco Matelli Matulovic",
