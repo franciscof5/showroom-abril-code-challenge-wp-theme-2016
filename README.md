@@ -6,6 +6,8 @@
 
 Multi-porpouse wordpress layout
 
+Tema de WordPress responstivo, com menu multi-nível, para várias finalidades, desenvolvido com foco em cliente revista de automóvel. Tema de código aberto disponível em: github repositório oficial
+
 Author: Francisco Matelli Matulovic
 
 Locale: Itapetininga, Sao Paulo
